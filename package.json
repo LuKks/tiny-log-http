@@ -1,6 +1,6 @@
 {
   "name": "tiny-log-http",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Simple middleware for logging requests",
   "main": "index.js",
   "scripts": {
