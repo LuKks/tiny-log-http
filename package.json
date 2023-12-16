@@ -1,0 +1,26 @@
+{
+  "name": "tiny-log-http",
+  "version": "0.0.0",
+  "description": "Simple middleware for logging requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuKks/tiny-log-http.git"
+  },
+  "author": "Lucas Barrena (LuKks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuKks/tiny-log-http/issues"
+  },
+  "homepage": "https://github.com/LuKks/tiny-log-http#readme",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "dependencies": {
+    "reduce-user-agent": "^1.0.3",
+    "tiny-crayon": "^1.0.5"
+  }
+}
